@@ -1,0 +1,19 @@
+﻿Сборка начата 18.12.2023 17:12:41.
+Уровень детализации журнала: Normal.     1>Проект "D:\БГТУ\лабы\АиСД\ASD9\ASD9\ASD9.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "x64\Debug\ASD9.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         ASD9.vcxproj -> D:\БГТУ\лабы\АиСД\ASD9\x64\Debug\ASD9.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\ASD9.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\ASD9.tlog\ASD9.lastbuildstate".
+     1>Сборка проекта "D:\БГТУ\лабы\АиСД\ASD9\ASD9\ASD9.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.05
